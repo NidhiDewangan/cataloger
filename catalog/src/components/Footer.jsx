@@ -4,7 +4,7 @@ function Footer() {
   const year = new Date().getFullYear();
   return (
     <footer>
-      <p>Copyright ⓒ {year} | Created by Saurabh Singh</p>
+      <p>Copyright ⓒ {year} | Created by Nidhi Dewangan</p>
     </footer>
   );
 }
